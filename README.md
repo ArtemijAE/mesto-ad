@@ -2,7 +2,7 @@
 
 Проектная работа Mesto — интерактивная страница с карточками мест, лайками и профилем пользователя.
 
-Опубликованный проект: [https://artemijae.github.io/mesto-p/](https://artemijae.github.io/mesto-p/)
+Опубликованный проект: [https://artemijae.github.io/mesto-ad-pages/](https://artemijae.github.io/mesto-ad-pages/)
 
 ## Команды проекта
 
